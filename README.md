@@ -7,6 +7,7 @@ An interactive Power BI dashboard for exploring sales, customers, vendors, and p
 ## 📺 Dashboard Preview
 
 📄 [View Farmers Market Dashboard ](./Farmers%20Market%20Dashboard.pdf)
+<img width="1003" height="589" alt="image" src="https://github.com/user-attachments/assets/57ffafd0-b061-444a-9edb-b777d6641145" />
 
 ---
 
