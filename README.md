@@ -46,13 +46,14 @@ An interactive Power BI dashboard for exploring sales, customers, vendors, and p
 
 
 
-## 🚀 How to Run Locally
+### 🚀 How to Run Locally
 
 ### Clone Repository
 
 ```bash
 git clone https://github.com/gargmukul91066/Farmers-Market-Dashboard.git
 cd Farmers-Market-Dashboard
+
 
 
 Open in Power BI Desktop
