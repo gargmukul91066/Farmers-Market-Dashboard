@@ -46,31 +46,43 @@ An interactive Power BI dashboard for exploring sales, customers, vendors, and p
 
 
 
+
 ## 🚀 How to Run Locally
 
 ### Clone Repository
 
 ```bash
 git clone https://github.com/gargmukul91066/Farmers-Market-Dashboard.git
-cd Farmers-Market-Dashboard```
-Open Power BI Desktop
-Launch Power BI Desktop.
+cd Farmers-Market-Dashboard
+```
 
-Open Farmers Market Dashboard.pbix file.
+### Open in Power BI Desktop
 
-Interact & Explore
-Apply filters and explore KPIs, charts, and insights.
+- Launch Power BI Desktop.
+- Open `Farmers Market Dashboard.pbix` file.
 
-💡 Key Insights You Can Derive
+### Interact & Explore
 
-✅ Top-selling products
-✅ Most valuable customers
-✅ Vendor performance analysis
-✅ Customer purchase behavior patterns
+- Apply filters and explore KPIs, charts, and insights.
 
-📜 License
+---
+
+## 💡 Key Insights You Can Derive
+
+✅ Top-selling products  
+✅ Most valuable customers  
+✅ Vendor performance analysis  
+✅ Customer purchase behavior patterns  
+
+---
+
+## 📜 License
+
 This project is licensed under the MIT License.
 
-👋 Author & Contact
-GitHub: gargmukul91066
-LinkedIn: Mukul Garg
+---
+
+## 🙋‍♂️ Author & Contact
+
+- **GitHub:** [gargmukul91066](https://github.com/gargmukul91066)  
+- **LinkedIn:** [Mukul Garg](https://www.linkedin.com/in/mukul-garg-91066/)
