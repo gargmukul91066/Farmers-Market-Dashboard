@@ -6,7 +6,7 @@ An interactive Power BI dashboard for exploring sales, customers, vendors, and p
 
 ## 📺 Dashboard Preview
 
-![Farmers Market Dashboard View](./Farmers%20Market%20Dashboard.png)
+📄 [View Farmers Market Dashboard ](./Farmers%20Market%20Dashboard.pdf)
 
 ---
 
@@ -43,13 +43,13 @@ An interactive Power BI dashboard for exploring sales, customers, vendors, and p
 ├── Farmers Market Dashboard.pdf
 ├── LICENSE
 ├── README.md
-
+```
 
 
 
 ## 🚀 How to Run Locally
 
-### Clone Repository
+## Clone Repository
 
 ```bash
 git clone https://github.com/gargmukul91066/Farmers-Market-Dashboard.git
@@ -85,4 +85,4 @@ This project is licensed under the MIT License.
 ## 🙋‍♂️ Author & Contact
 
 - **GitHub:** [gargmukul91066](https://github.com/gargmukul91066)  
-- **LinkedIn:** [Mukul Garg](https://www.linkedin.com/in/mukul-garg-91066/)
+- **LinkedIn:** [Mukul Garg](https://www.linkedin.com/in/mukul-garg-5b533b245/)
