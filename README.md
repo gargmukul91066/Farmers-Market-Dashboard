@@ -32,7 +32,7 @@ An interactive Power BI dashboard for exploring sales, customers, vendors, and p
 - ☁️ **Sales vs Customers Word Cloud**  
 - 📋 **Customer-wise Sales Table**  
 
-👉 **Filters Available:** Customer | Vendor | Date | Product  
+👉 **Filters Available:** Customer | Vendor | Date | Product | Booth 
 👉 **Interactivity:** Slicers and hover tooltips provide granular insights.
 
 ---
